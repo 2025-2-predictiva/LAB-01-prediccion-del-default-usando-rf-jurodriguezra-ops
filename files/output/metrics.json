@@ -2,3 +2,5 @@
 {"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 16261, "predicted_1": 12}, "true_1": {"predicted_0": 448, "predicted_1": 4279}}
 {"type": "metrics", "dataset": "test", "precision": 0.6598, "balanced_accuracy": 0.6741, "recall": 0.4044, "f1_score": 0.5015}
 {"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 6693, "predicted_1": 398}, "true_1": {"predicted_0": 1137, "predicted_1": 772}}
+{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 16261, "predicted_1": 12}, "true_1": {"predicted_0": 448, "predicted_1": 4279}}
+{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 6693, "predicted_1": 398}, "true_1": {"predicted_0": 1137, "predicted_1": 772}}
